@@ -5,16 +5,17 @@
 ## DEMO
 [![Watch the demo](https://img.youtube.com/vi/s_cGy05-u3Q/hqdefault.jpg)](https://youtube.com/shorts/s_cGy05-u3Q?feature=share)
 
-## Screenshots
+## Screenshots for Indian Attire
 
-### Screenshot 1
-![Screenshot 1](https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496527-qv55qn.jpg)
+### Garmnet-Image
+<img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496527-qv55qn.jpg" alt="Screenshot 1" width="400"/>
 
-### Screenshot 2
-![Screenshot 2](https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg)
+### Model-Image
+<img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="400"/>
 
-### Screenshot 3
-![Screenshot 3](https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png)
+### Resulted-Image
+<img src="https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png" alt="Screenshot 3" width="400"/>
+
 
 
 ## Product Architecture
