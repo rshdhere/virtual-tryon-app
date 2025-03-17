@@ -69,7 +69,7 @@ View app architecture and design diagrams on [Excalidraw](https://excalidraw.com
 #### Frontend Setup
 1. Navigate to the frontend directory
    ```bash
-   cd ../frontend
+   cd ../my-app
    ```
 
 2. Install dependencies
