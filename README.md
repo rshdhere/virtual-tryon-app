@@ -5,16 +5,16 @@
 ## DEMO
 [![Watch the demo](https://img.youtube.com/vi/s_cGy05-u3Q/hqdefault.jpg)](https://youtube.com/shorts/s_cGy05-u3Q?feature=share)
 
-## Screenshots for Indian Attire
+## Demonstration on Indian Attire
 
-### Garmnet-Image
-<img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496527-qv55qn.jpg" alt="Screenshot 1" width="400"/>
+<p align="center">
+  <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496527-qv55qn.jpg" alt="Screenshot 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="45%"/>
+</p>
 
-### Model-Image
-<img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="400"/>
-
-### Resulted-Image
+### Screenshot 3
 <img src="https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png" alt="Screenshot 3" width="400"/>
+
 
 
 
