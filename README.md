@@ -8,13 +8,10 @@
 ## Demonstration on Indian Attire
 
 <p align="center">
- 
-  <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="45%"/>
+  <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="48%" style="margin-right: 4px;"/>
+  <img src="https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png" alt="Screenshot 3" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png" alt="Screenshot 3" width="50%"/>
-</p>
 
 ## Product Architecture
 
