@@ -3,8 +3,7 @@
 A mobile application that allows users to virtually try on clothing and accessories using augmented reality technology. This application provides a seamless shopping experience by enabling users to see how items would look on them before making a purchase.
 
 ## DEMO
-
-
+[![Watch the demo](https://img.youtube.com/vi/s_cGy05-u3Q/hqdefault.jpg)](https://youtube.com/shorts/s_cGy05-u3Q?feature=share)
 
 ## Product Architecture
 
