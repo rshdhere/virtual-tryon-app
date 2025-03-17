@@ -9,10 +9,9 @@
 
 View app architecture and design diagrams on [Excalidraw](https://excalidraw.com/#json=O1KQ_5Pl47h6cMlGf56P8,M4zHHwGfHlf24BbVPdOOww).
 
-## Features
+## Features for future
 
 - Virtual try-on for clothing and accessories
-- Realistic AR rendering with accurate sizing
 - User profile management
 - Favorites and recently viewed items
 - Sharing functionality for social media
