@@ -12,11 +12,9 @@
   <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 
-### Screenshot 3
-<img src="https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png" alt="Screenshot 3" width="400"/>
-
-
-
+<p align="center">
+  <img src="https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png" alt="Screenshot 3" width="50%"/>
+</p>
 
 ## Product Architecture
 
