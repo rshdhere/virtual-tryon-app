@@ -22,9 +22,7 @@ A mobile application that allows users to virtually try on clothing and accessor
 ### Frontend
 - React Native
 - Expo framework
-- Redux for state management
-- React Navigation for routing
-- AR integration using ViroReact
+- Expo Router for routing
 
 ## Getting Started
 
