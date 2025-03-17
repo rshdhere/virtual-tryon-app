@@ -2,6 +2,11 @@
 
 A mobile application that allows users to virtually try on clothing and accessories using augmented reality technology. This application provides a seamless shopping experience by enabling users to see how items would look on them before making a purchase.
 
+## Product Architecture
+
+View app architecture and design diagrams on [Excalidraw](https://excalidraw.com/#json=O1KQ_5Pl47h6cMlGf56P8,M4zHHwGfHlf24BbVPdOOww).
+
+
 ## Features
 
 - Virtual try-on for clothing and accessories
