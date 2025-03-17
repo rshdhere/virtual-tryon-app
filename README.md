@@ -5,6 +5,18 @@
 ## DEMO
 [![Watch the demo](https://img.youtube.com/vi/s_cGy05-u3Q/hqdefault.jpg)](https://youtube.com/shorts/s_cGy05-u3Q?feature=share)
 
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496527-qv55qn.jpg)
+
+### Screenshot 2
+![Screenshot 2](https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg)
+
+### Screenshot 3
+![Screenshot 3](https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png)
+
+
 ## Product Architecture
 
 View app architecture and design diagrams on [Excalidraw](https://excalidraw.com/#json=O1KQ_5Pl47h6cMlGf56P8,M4zHHwGfHlf24BbVPdOOww).
