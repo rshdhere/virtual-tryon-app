@@ -8,7 +8,7 @@
 ## Demonstration on Indian Attire
 
 <p align="center">
-  <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496527-qv55qn.jpg" alt="Screenshot 1" width="45%" style="margin-right: 10px;"/>
+ 
   <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="45%"/>
 </p>
 
