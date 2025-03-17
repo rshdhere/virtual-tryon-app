@@ -11,7 +11,6 @@ View app architecture and design diagrams on [Excalidraw](https://excalidraw.com
 
 ## Features for future
 
-- Virtual try-on for clothing and accessories
 - User profile management
 - Favorites and recently viewed items
 - Sharing functionality for social media
