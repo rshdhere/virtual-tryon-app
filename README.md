@@ -1,6 +1,6 @@
 # Virtual Try-On App
 
-A mobile application that allows users to virtually try on clothing and accessories using augmented reality technology. This application provides a seamless shopping experience by enabling users to see how items would look on them before making a purchase.
+"A mobile application that enables users to virtually try on clothing by uploading a model image and a garment image. The app generates a realistic visualization of how the selected garment would look on the model, providing an easy and interactive way to explore fashion choices before making a purchase."
 
 ## DEMO
 [![Watch the demo](https://img.youtube.com/vi/s_cGy05-u3Q/hqdefault.jpg)](https://youtube.com/shorts/s_cGy05-u3Q?feature=share)
