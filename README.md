@@ -1,43 +1,51 @@
 # Virtual Try-On App
+A mobile app that lets users **virtually try on** clothes by uploading a model and garment image, generating a realistic preview to explore fashion choices before purchase.
 
-"A mobile application that enables users to virtually try on clothing by uploading a model image and a garment image. The app generates a realistic visualization of how the selected garment would look on the model, providing an easy and interactive way to explore fashion choices before making a purchase."
+# 📖 Introduction
 
-## DEMO
+This project is a **mobile application** that enables users to virtually try on clothing by uploading a model image and a garment image. The app uses **advanced visualization** techniques to generate a realistic preview of how the selected garment would look on the chosen model.
+
+The goal is to provide users with an **interactive** and convenient way to explore fashion choices before making a purchase, reducing uncertainty in **online shopping** and enhancing the overall shopping experience.
+
+## 🎥 Quick Demo
 [![Watch the demo](https://img.youtube.com/vi/s_cGy05-u3Q/hqdefault.jpg)](https://youtube.com/shorts/s_cGy05-u3Q?feature=share)
 
-## Demonstration on Indian Attire
+## 🖥️ Demonstration on Indian Attire
 
-<p align="center">
-  <img src="https://novagito-bucket.s3.us-east-1.amazonaws.com/uploads/1741949496478-vgnzou.jpg" alt="Screenshot 2" width="48%" style="margin-right: 4px;"/>
-  <img src="https://v3.fal.media/files/zebra/gbrT1YR0wTlig3wnYUsGV_c72b224676394a1da12b20ee8a9eef37.png" alt="Screenshot 3" width="48%"/>
-</p>
+<div align="center">
+  <img src="assets/Original image.jpg" alt="Original image" 
+  width="48%" height="500" style="margin-right: 3px;"/>
+  <img src="assets/Generated image.png" alt="Generated image" width="48%" height="500" style="margin-left: 3px;"/>
+</div>
 
+# ✨ Features
 
-## Product Architecture
+- **Virtual Try-On** – Upload a model image and a garment image to generate a realistic outfit preview.
 
-View app architecture and design diagrams on [Excalidraw](https://excalidraw.com/#json=O1KQ_5Pl47h6cMlGf56P8,M4zHHwGfHlf24BbVPdOOww).
+- **Garment Fit Visualization** – See how clothes drape, fit, and appear on different body types.
 
-## Features for future
+- **Multiple Outfit Testing** – Try on various garments quickly without physically changing clothes.
 
-- User profile management
-- Favorites and recently viewed items
-- Sharing functionality for social media
-- Integration with popular e-commerce platforms
+- **Realistic Rendering** – AI-based visualization for a more natural and lifelike look.
 
-## Tech Stack
+- **Interactive Experience** – Smooth and user-friendly interface for exploring different fashion styles.
 
-### Backend
+- **Cross-Device Support** – Works seamlessly on mobile devices for on-the-go fashion exploration.
+
+## 🚀 Tech Stack
+
+### 🛠️ Backend
 - Node.js
 - Express.js
-- AWS S3 for image storage
-- RESTful API architecture
+- **AWS S3** for image storage
+- **RESTful API** architecture
 
-### Frontend
+### 🎨 Frontend
 - React Native
-- Expo framework
-- Expo Router for routing
+- **Expo** framework
+- **Expo Router** for routing
 
-## Getting Started
+## 🏁 Getting Started
 
 ### Prerequisites
 - Node.js (v14 or later)
@@ -45,7 +53,7 @@ View app architecture and design diagrams on [Excalidraw](https://excalidraw.com
 - Expo CLI
 - AWS Account (for S3 storage)
 
-### Installation
+### 📦 Installation
 
 #### Backend Setup
 1. Clone the repository
@@ -97,12 +105,19 @@ View app architecture and design diagrams on [Excalidraw](https://excalidraw.com
 
 5. Use the Expo Go app on your mobile device to scan the QR code or run on an emulator
 
-## Usage
 
-just a mvp
+## 🔮 Features for future
 
+- User profile management
+- Favorites and recently viewed items
+- Sharing functionality for social media
+- Integration with popular e-commerce platforms
 
-## Contributing
+## 🏗️ Product Architecture
+
+View app architecture and design diagrams on [Excalidraw](https://excalidraw.com/#json=O1KQ_5Pl47h6cMlGf56P8,M4zHHwGfHlf24BbVPdOOww).
+
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -110,7 +125,7 @@ just a mvp
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a pull request
 
-## License
+## ⚖️ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
