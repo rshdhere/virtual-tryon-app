@@ -8,7 +8,7 @@ This project is a **mobile application** that enables users to virtually try on 
 The goal is to provide users with an **interactive** and convenient way to explore fashion choices before making a purchase, reducing uncertainty in **online shopping** and enhancing the overall shopping experience.
 
 ## 🎥 Quick Demo
-[![Watch the demo](https://img.youtube.com/vi/s_cGy05-u3Q/hqdefault.jpg)](https://youtube.com/shorts/s_cGy05-u3Q?feature=share)
+[![Watch the demo](assets/Demo.gif)]
 
 ## 🖥️ Demonstration on Indian Attire
 
